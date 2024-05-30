@@ -1,6 +1,5 @@
-# MARISMA-patterns
+# MARISMA Patterns
 
-# Marisma Patterns
 
 ## Introduction
 
