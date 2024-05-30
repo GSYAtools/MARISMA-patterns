@@ -5,7 +5,7 @@
 
 Marisma Patterns is a comprehensive framework designed for the sustainability and management of cybersecurity risks. It provides a base framework that can be extended with specific patterns tailored to various application domains. The goal is to offer a reusable and adaptable methodology for assessing and managing risks in diverse environments.
 
-<img src="img/architecture.png" width="50%" height="auto">
+<img src="img/architecture.png" width="30%" height="auto">
 
 
 ## Purpose
